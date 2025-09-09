@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)  
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 ---
 
@@ -43,7 +42,7 @@ pip install matplotlib numpy jupyter
 
 Clone this repository:
 
-git clone https://github.com/YourUsername/Chapter-4-Data-Visualization-Practice.git
+git clone https https://github.com/adenomaraden/Chapter-4-Data-Visualization-Practice/blob/main/Chapter4_Data_Visualization_PRACTICE.ipynb
 
 
 Navigate into the project folder:
@@ -60,7 +59,7 @@ jupyter notebook
 
 🔹 Line Chart Example
 
-(Place your saved charts inside an images/ folder and update these links.)
+
 
 🎯 Learning Objectives
 
